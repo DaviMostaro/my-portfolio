@@ -8,11 +8,11 @@ import { Footer } from "@/components/Footer";
 
 const Page = () => {
     return (
-        <div>
-            <header>
+        <div className="">
+            <header className="max-md:max-w-[768px]">
                 <Header />
             </header>
-            <main>
+            <main className="max-md:max-w-[768px]">
                 <section id="home">
                     <Home />
                 </section>
@@ -28,10 +28,10 @@ const Page = () => {
                 <section id="contact">
                     <Contact />
                 </section>
-            </main>
+            </main>         
             <footer>
                 <Footer />
-            </footer>
+            </footer>              
         </div>
     );
 }

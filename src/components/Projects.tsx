@@ -5,9 +5,10 @@ export const Projects = () => {
     return (
         <div className="bg-gray-900 rounded-2xl flex flex-col max-w-7xl m-auto">
             <div className="flex justify-center items-center mt-10">
-                <h1 className="text-4xl mb-7"><ComputerIcon /> Alguns dos meus Projetos <ComputerIcon /></h1>
+                <h1 className="text-4xl mb-7 max-md:text-3xl max-md:text-center"><ComputerIcon /> Alguns dos meus Projetos <ComputerIcon /></h1>
             </div>        
-            <div className="grid grid-cols-3 gap-x-20 gap-y-10 w-7xl mx-auto bg-gray-900 rounded-2xl p-10">
+            <div className="grid grid-cols-3 gap-x-20 gap-y-10 mx-auto bg-gray-900 rounded-2xl p-10 max-lg:grid-cols-2 max-md:grid-cols-1 max-md:p-6 max-md:gap-x-10
+            max-md:max-w-[700px]">
                 <ProjectItem
                     imagem="/assets/amigo.png"
                     title="Amigo Secreto"
