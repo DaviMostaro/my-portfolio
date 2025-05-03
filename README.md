@@ -46,8 +46,8 @@ http://localhost:3000
 
 
 ## ✅ Funcionalidades
-- [x] <Funcionalidade 1 – Interface responsiva
-- [x] <Funcionalidade 2 – Navegação fluida, animada e intuitivo
+- [x] Funcionalidade 1 – Interface responsiva
+- [x] Funcionalidade 2 – Navegação fluida, animada e intuitivo
 
 
 ## 👨‍💻 Autor
