@@ -3,8 +3,9 @@ Meu portfólio pessoal. Aplicação web com intuito de me apresentar, citar minh
 
 ## 🚀 Tecnologias Utilizadas
 - Tecnologia 1 ReactJS
-- Tecnologia 2 NextJS
-- Tecnologia 3 TailwindCSS
+- Tecnologia 2 Typescript
+- Tecnologia 3 NextJS
+- Tecnologia 4 TailwindCSS
 
 ## 📦 Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
